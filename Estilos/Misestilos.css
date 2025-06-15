@@ -1,0 +1,49 @@
+/* Estilo del título principal de arriba */
+#principal {
+	font-size: 50px;
+	background-color: #2C3E50;
+	color: #556B2F;
+	text-align: center;
+	background-image: url("../Imagenes/Logotipo.png");
+}
+
+/* Texto 1 */
+#mitexto {
+	font-size: 35px;
+	color: #FFD700;
+	text-align: center;
+}
+
+/* Texto 2 */
+#mitexto2 {
+	font-size: 60px;
+	color: #FFD700;
+	text-align: center;
+}
+
+/* Texto 4 */
+#segundo {
+	font-size: 50px;
+	color: 	#1C1C1C;
+	text-align: center;
+}
+
+/* Texto 3 */
+#cambio {
+	font-family: Verdana, sans-serif;
+	font-size: 26px;
+	color: #000000;
+}
+
+/* Fondo general */
+html {
+	background-color: #ECECEC;
+}
+
+/* Imagen con sombra */
+#imagen {
+	width: 50%;
+	border-image-slice: 29;
+	border-image-repeat: stretch;
+	box-shadow: rgb(150,150,150) 10px 10px 20px 10px;
+}
